@@ -1,9 +1,9 @@
-import { Artwork } from "./Artwork";
 
+import { Artwork } from "./Artwork"
 class  Statue implements Artwork{
-    statheig : number;
-constructor(statheig : )
-
+    title!: string;
+    year!: number;
+    price!: number;
 
 }
 
