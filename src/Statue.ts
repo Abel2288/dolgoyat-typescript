@@ -1,5 +1,9 @@
-
+import { Artwork } from "./Artwork";
 
 class  Statue implements Artwork{
-height?: number;
+    statheig : number;
+constructor(statheig : )
+
+
 }
+
